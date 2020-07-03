@@ -1,0 +1,9 @@
+cpjlaboratoriofinal\CPJJLaboratorioFinal.class
+mx\com\rlr\peliculas\datos\AccesoDatosImpl.class
+mx\com\rlr\peliculas\excepciones\AccesoDatosEx.class
+mx\com\rlr\peliculas\excepciones\EscrituraDatosEx.class
+mx\com\rlr\peliculas\negocio\CatalogoPeliculasImpl.class
+mx\com\rlr\peliculas\domain\Pelicula.class
+mx\com\rlr\peliculas\negocio\CatalogoPeliculas.class
+mx\com\rlr\peliculas\excepciones\LecturaDatosEx.class
+mx\com\rlr\peliculas\datos\AccesoDatos.class
