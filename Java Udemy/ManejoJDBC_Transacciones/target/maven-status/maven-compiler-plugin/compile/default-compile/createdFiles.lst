@@ -1,6 +1,0 @@
-domain\Persona.class
-datos\Conexion.class
-datos\UsuarioJDBC.class
-test\ManejoPersonas.class
-datos\PersonaJDBC.class
-domain\Usuario.class
